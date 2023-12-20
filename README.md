@@ -16,11 +16,15 @@ Ordered by ascending complexity.
 
 ## Generative Models
 
- - Complete lecture by Volodymyr Kuleshov from Cornell University: [CS 6785 Deep Probabilistic and Generative Models 2023](https://canvas.cornell.edu/courses/50665)
+ - Complete lecture with videos by Volodymyr Kuleshov from Cornell University: [CS 6785 Deep Probabilistic and Generative Models 2023](https://canvas.cornell.edu/courses/50665)
 
 ## Hyperparameter Optimization
 
  - Google's [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
+
+## Reinforcement Learning
+
+ Complete course with videos by Paderborn University: [Reinforcement Learning](https://github.com/upb-lea/reinforcement_learning_course_materials)
 
 ## Transformers
 
