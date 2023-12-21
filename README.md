@@ -13,6 +13,7 @@ Ordered by ascending complexity.
 ## Deep Learning
 
  - Complete course including The Little Book of Deep Learning by François Fleuret from University of Geneva: [Deep Learning Course](https://fleuret.org/dlc/)
+ - The complete [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/schedule.html) lecture has a great introduction to Deep Learning basics, especially backpropagation. It is run by Fei-Fei Li but Andrej Karpathy worked a lot on the material, too. 
 
 ## Generative Models
 
